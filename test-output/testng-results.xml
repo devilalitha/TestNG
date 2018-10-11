@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="242" started-at="2018-08-04T09:45:27Z" finished-at="2018-08-04T09:45:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="242" started-at="2018-08-04T09:45:27Z" finished-at="2018-08-04T09:45:27Z">
+      <class name="test.practise2">
+        <test-method status="PASS" signature="homeloanmobile()[pri:0, instance:test.practise2@27a8c74e]" name="homeloanmobile" is-config="true" duration-ms="44" started-at="2018-08-04T09:45:27Z" finished-at="2018-08-04T09:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeloanmobile -->
+        <test-method status="PASS" signature="homeloanexample()[pri:0, instance:test.practise2@27a8c74e]" name="homeloanexample" duration-ms="10" started-at="2018-08-04T09:45:27Z" finished-at="2018-08-04T09:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeloanexample -->
+        <test-method status="PASS" signature="homeloanios()[pri:0, instance:test.practise2@27a8c74e]" name="homeloanios" is-config="true" duration-ms="0" started-at="2018-08-04T09:45:27Z" finished-at="2018-08-04T09:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeloanios -->
+        <test-method status="PASS" signature="homeloanmobile()[pri:0, instance:test.practise2@27a8c74e]" name="homeloanmobile" is-config="true" duration-ms="0" started-at="2018-08-04T09:45:27Z" finished-at="2018-08-04T09:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeloanmobile -->
+        <test-method status="PASS" signature="homeloanweb()[pri:0, instance:test.practise2@27a8c74e]" name="homeloanweb" duration-ms="2" started-at="2018-08-04T09:45:27Z" finished-at="2018-08-04T09:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeloanweb -->
+        <test-method status="PASS" signature="homeloanios()[pri:0, instance:test.practise2@27a8c74e]" name="homeloanios" is-config="true" duration-ms="1" started-at="2018-08-04T09:45:27Z" finished-at="2018-08-04T09:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeloanios -->
+      </class> <!-- test.practise2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
